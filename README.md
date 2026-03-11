@@ -1,7 +1,7 @@
 # Housing Price Prediction Project
 
 ## Project Description
-This project aims to predict housing prices based on various features using machine learning algorithms. The project leverages a Jupyter Notebook for data analysis and visualization, making testing and development convenient and efficient. The dataset used comprises numerous attributes influencing housing prices, such as location, size, number of bedrooms, and more.
+This project aims to predict housing prices based on various features using machine learning algorithms. The project leverages a Jupyter Notebook for data analysis and visualization, making testing and development convenient and efficient. The dataset used comprises numerous attributes influencing housing prices, such as size, number of bedrooms, and more.
 
 ## Setup Instructions
 1. **Clone the Repository**
@@ -32,7 +32,6 @@ This project aims to predict housing prices based on various features using mach
    ```
 
 ## Usage Guide
-- The main functionality of the project is located in the `housing_price_prediction.ipynb` notebook.
 - You can explore different sections like data cleaning, feature engineering, training the model, and making predictions.
 - To run a cell, click on it and press `Shift + Enter`.
 
